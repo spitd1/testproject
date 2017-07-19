@@ -1,0 +1,19 @@
+# OSX files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+
+#
+!.gitignore
+!.gitkeep
+!.htaccess
+
+# gitignore
+node_modules
+
+# Only apps should have lockfiles
+yarn.lock
+package-lock.json
